@@ -1,1 +1,3 @@
 Deðiþiklik oldu mu ?
+Evet baran abi solution exp. > klasöre sað týk > add > add new item > text file
+iþlemleri ile txt file oluþturulabiliyor þimdi sen deðiþiklik yaptýðýnda devam edicem üzerine.
