@@ -1,0 +1,3 @@
+Baran abi bunu clonelayacağım bakalım gerçekten bir txt dosyası olmuşmu
+uzantısını .txt yaptım sana yine yetki vereceğim sen de değiştir 
+bakalım aynı conflict çıktığında çözülecek mi ?
